@@ -1,0 +1,2684 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Inventory Items
+  m_EditorClassIdentifier: 
+  m_GroupName: Inventory Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dd25db6221211a24d979b31d50184201
+  m_SerializeEntries:
+  - m_GUID: 9ce2ab4fcb9070246bb9ed4506a37518
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_THE_CLOTH.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 187759c9ac7a580459dc7f1e1756692c
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Special_Submachine_Gun_Clean.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1261337aad64ef4db60b9b168b33feb
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Sledgehammer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2cbe343c87fdb7468a2b5176c7c4cb0
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_SKIN_FLATCHES.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc312fcfb332c8a45bd9691cbf391d16
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Scrap_Metal_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 498ab23c9cbee7845b2c689473697044
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Scrap_Metal_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77ff5fc6b3b6f5a4cb0fe574d6726a93
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Scrap_Metal_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29abf24f5c3a0c346920490127e9b6d1
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Pallet_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 931aea578e9e7f7499b2987da9ed2fb0
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Pallet_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be7edd9c916f8a048a7e416e583f354a
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Muzzle_Brake_Compensator_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cc25e1b147c93248987a6b4e5deee90
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Magazine_For_Special_Submachine_Gun_Empty.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75684f6054a9a8143b92a740cc80a631
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Magazine_For_Army_Pistol_Empty.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d6c8044d7125364a83e2ab1c71c4ed5
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Magazine_For_Army_Pistol.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63a58d29feb4cf64081e1f4a8e1b6844
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Log_laying.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e63d2a1731e95a4bbee54952e67f2b5
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Log.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ae47a629d31e6545976a65007848e7c
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Large_Magazine_For_Army_Pistol_Empty.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e68efa9d411601746957290d91332127
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Large_Magazine_For_Army_Pistol.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21f69cbf9e7cd174d8737093cebdf481
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_HOOK_FOR_Fishing_Rod_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26b8206028c8ad242bf7bcfe0703439b
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Handguard_For_Submachine_Gun_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 122489d113ea97d4bbf387d2dc2d5e86
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Hammer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab3787f757082314fb65fb7ca4552c31
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_GAS_CYLINDER_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 845771c8faf6ff848a08dc9973e39f41
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_GAS_CYLINDER_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66c5c01db3a7a4040b6b6ea74d1a8737
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_FLATCHE.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bc308d5d4320ef4384e58e1eb73428a
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_ARAMID_FABRIC.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 981ee0f3d7fa6174db07b9228b3c72c1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/rock_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c218547901a6e6489debb6736762317
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fd24a31bc5fe1c4185026acc0924b61
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_floor_edge_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cf92bce793bb5b4aa76681cb0309f07
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0d8162c1d3cbf54a95f0588341b3544
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10f12ff088e8ab14fb46e444d5d589d0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/mountain_road_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 520e223f726d77044a8dbb9e71d02a97
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89af1198aef671843bc75725f95a040a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terracr_fence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1fbb15be5abe0f40891cdb10e45e54d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_A_up.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41d2cf6fa61ab7d49a842763be600249
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Barrel_Closed_01_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a77bbe5dde483945866f1e14cb55c60
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3babfd787f75c8340bde2ce527ed1ab1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_bottom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c29dc160e14a2e49a45fd4e910e59bf
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcb2b00f0d6f5a9459fcc790a6d3e4ef
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_tile_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2b4731d43fdb66499c3ad6302dd18d3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/melting_snow_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ed539bd3b3ff0e47b63fead58d7fbc7
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb70c72c4c215f249b15d7630ccaaa3a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dda086afad79f9742acbea1624ad3667
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_adornment_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2345dc914cdbb7a4a8566ac0df93397e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/forst_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37476453262801641b9ba6c5a30a8098
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Homemade_Medical_Splint.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6046a64e832cdad44ac9e18fe66d19f1
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Bonfire_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 101ee0da20ef7b248ab197efd648e171
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Assembled_Tent_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d3d12ea57e8f4e46b15d7e1b1c8d9ae
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_window.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 710fe1441cce71d4384a25e70e191a95
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_tile_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 846881b392e94d947b13e4bc2e64ff12
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95de07dbd78af024fb0c55eba41923c0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/forst_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6210926686fb23a46a44fb4a0c079c30
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9441824f8203cf4086dfc8035829958
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/stair_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdccadca9c4241c40b02422522e7747e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/mountain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f549f2579a315647be79572ac870ae1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_column_base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 761f9b71cefb25942893f8d5b89498d9
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/palace_roof_top_window.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39da7e28007fc804d9b8846cc82cb4e5
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c1e6bdb634888540b892232c7c27333
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9400540424b9a604395d4741dacc91ca
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_tile_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e237085af93be32408011b6a3de45527
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/clock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f46bfbef272b48f448bc333fa03ff9b1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_window.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 940dba2d74386754eb954b87dd8c3e0a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a2448bf61a4aba46a1c2dd3e150568e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e958731f415e6d24dbb976b4f4f96148
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/palace_roof_top_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 426fcccd67ee59d43a2e44167d511629
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_bottom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c8aaa6844bf8c94c90251ef0c4fb1be
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/forst_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd09ec2331d3df74baeecad7db4739c6
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_tile_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0f4d8ccadd9b634bac02f5d0a02c0d9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_bottom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b97f013b4dd0b60438d6c3252c36a521
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/ice_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e70c788d9b889f44b8057c1ca261dbb9
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Meat_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e35e69eb41fe8c42a89d83d59f8f32c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_bottom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e4ff563403d7784f8179af1aa327cd0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8187deba7422c64183af4746bd90638
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_floor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 579a0c472adcdf947831f9a1b07e7291
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3b5d5859d970fd4b9f7e34451a4d2cf
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_body_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2244d46c486547428d4f7a25dbdbd0e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_door.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bbbd865ca3b7a3499b51688ceac5fa0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_B_down.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96930fc10d550c849840711081f1bb81
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_fence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 454d92569dcaf924288607168e82ccb3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_F.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ddb3998a58be8947915cdf7e6f6d723
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_sit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a68ba9e2487f7b346a077c91b92417cd
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f7d1bf19c9b6bf42bcbbb6d19b946b8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_adornment_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ec688fd2ade481409467d77f609e86e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_floor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d17404dc2e09e6b4e9520748a08f4e3a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1c881c4f5df5f545b1ca305315a513d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_floor_edge_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 816601ee0caa889429b17db56a6f9e60
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/rock_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13a6c5f9628bbd04eab26b352cacef20
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 183a815dbabf42c47b0f739f47af2113
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_floor_edge_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d94f501e23f61dc4fbda45ce8cfe418f
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/melting_snow_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd226542f78ce7e40b3134ada8fda64c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_floor_edge_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f7b50f8edf8a2a4894c166215a3d1b1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3506c2de3c0ca2241bb562cc6b1affaa
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/palace_wall_terrace.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aed903fafb37dfd4284b53470264736f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05582c8bfec84e64b9467f86235742fd
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/melting_snow_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbfdfd372c4682242bf4c159fcc3c16d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b50b99113b3680a40bed284c031f6ad2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 511827e49113efb469fa857d93322060
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/rock_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 538c2d8787add514bbb57827a5ceeef1
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Base/Material/base.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 201a83df36d0b0c4c8eb1266e964faf2
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Clock/Material/clock_statue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51615e4c55d944747a98a302cc335e49
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Clock/Material/clock_body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 381e3184e8e97804a8d1d6327963d738
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Mountain/Mesh/mountain.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9be347e5780a7d748ba6b8086b9dceb4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Base/Texture/base_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 486607df18144284a8dc919b5c4ef68f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Base/Texture/base_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c940ae4cf5f743946a62140abb04a0c5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Base/Texture/base_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a76b898fad9ba444095c8661e921206d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Material/Mountain_road.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcab42b27c1b2534f8779e499c29e424
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Material/mountain.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 818109fdd292c124388bdf672613e4b4
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Cartridges_9_ONE.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6724caf277831854fa8c7e4bcd500aa1
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Tent_A_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cdbb5effeab4db45a17845dd1d1289d
+    m_Address: Assets/Weapons/Sword/Model/Sword_MD.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99448befc850b974281c0e0bc2638772
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_road_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df314c26ac1f693489134e612f1d902a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99fadd015e8fd304698de7b9791a59d3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_road_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1f9ed3eb59e4b5449233c656249062a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_road_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f267c196a2b9a6b4b8c68d6f468b02a8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_BaseColor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72b4902c84874c541beefcbec4113315
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Texture/mountain_Roughness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30dd05e9c2509b4478f444ee1c44a674
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Material/Rock.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1885a945c922834ba6c5da08b216377
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Material/ice.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b51167cb1cb60e84fbd4c7bb590f92c6
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Material/forst.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd881a89717d2044e85c43fd11f9286c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Material/melting_snow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e33caa02c281d8c41a1215ee6f8f9acb
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/rock_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44d79fa1d8c120c49bc090327bf66ef3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_tile_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9175c1b8a3c606c4f8bac2ebd3f1a441
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21c4d77828c36004fa8f2dd7a3a43986
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: becf95b5ceb4033448603ecaafda9469
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_body_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a19ee6575f646c48a1e91f62c886819
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_statue_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e686f897c21f7ca42b0c6b658ca36a8b
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/melting_snow_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e76357994f7efc548a0b9c630e122b92
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_sit.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a36adfa80e417e0419dd2259bdbf0b0a
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_THE_CLOTH.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c498a631fed69f64ea4bf26cf636f1d1
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Bonfire_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44a85a5c9c57e7c4c9bf6f7d4f71de5e
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Magazine_For_Special_Submachine_Gun.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c75513a1d6394c4aa03d4b9ef1fe585
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/rock_BaseColor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76bdcb9a4b9192d42be91c15dd1c59cf
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/rock_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1999701a02f81354696508092a1c8811
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/rock_Roughness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11a5ea62863030140a2fc3fa40899abf
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/rock_Metallic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df4ca01277e6eeb459378b959d45e33f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/ice_A_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e32f3e2f4475bd4bb1c48b0e70e3ba2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/ice_A_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2af08e713cab7844591e0cb6aafbc487
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/ice_A_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d542fb5ea13eb604e9a5c3df129e78a1
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/forst_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cffe573bee761624586616e05ecb0918
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/forst_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0c978a012c885849810f247520b3a7c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/forst_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4635b1446f0e774587a46bb370d676f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/melting_snow_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ea806c486dce12458ed779e31cbe91d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/melting_snow_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65fdc1512e3c5054bbd33a8d7f73118f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Texture/melting_snow_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbfb50f9a1f1a214a92db5c294ac3715
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Stair/Texture/stair_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 574320e8c0eaaaa44af80b90b2f07b66
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Stair/Texture/stair_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 653a5dadfdf4fa84497e21c7173b4696
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Stair/Texture/stair_SpecularSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 960c695c11b51b34a8f473b608aa3196
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Chuck_Pistol_Box_9_CLOSED.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54d2f8c53b22a18428f831cadcc480b4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Stair/Material/stair.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3458676f49013fb498109a342c451ad7
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Material/clock_body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46bf623fbe7299f4ebeee2564651fbf2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Material/clock_statue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52fc560b42b94ab4aa2445e32fe8ac1a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_ststue_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e21dd5c67af26f40bdb30b675162587
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_ststue_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21c84d2df77c7294faabe2b9071eafe7
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_ststue_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fd981ee53ceb204394411f4cbdd83f8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_body_AlbedoTransparency.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63ff35107f5918f4d8cd76d338809db1
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_body_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed5d2dd06d8af8b4bab834767fdf5ed3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Texture/palace_clock_body_MetallicSmoothness.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69de5cf452d7f1643814adf0febb69f0
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Bandage.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d5101da32003c443855f2c27923b59f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/treeace_body_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206482da9cc919f49acb885259ef2774
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_statue_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c90b7018908f9c045b87b5d19baf269c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_adornment_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7f9c4de38e13df46a5245d42060d21b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/terracr_fence.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbe5c9099969e5e48bf34764c0e25c87
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_statue_F.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9169077bed4d817458ef40decc6c49b2
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/rock_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a191818ba6247343bdf1c290e6aa9d2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/treeace_body_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a9b2f6378fe77b49bd5d15babc548c2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_body_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fdb278f580a40942b77ad20dd9ee1ef
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Base/Mesh/base.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c87028809aa34434985b8297cd049726
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_edge_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a81ab8e9337d76b43b4cd2ab3844fbf5
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83b0265f2e8c09943a1b546dafe0d872
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/rock_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1684f11fac7cd1a4f8e0980b45be7214
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2590d137ce38ec84cbda0a45c13afe94
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_column_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46da0ecdfc5139a45aa26d6ba4c8605b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_fence_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e37f16989e17f54d8265d95aeee00cc
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/forst_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a6dcf2e3e297504cab7d7a2a7d6d105
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/terrace_column.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6eace0206be71de4ebc50b9d6b562595
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f0ec3030567a0644ba30a31fe9e962e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/palace_wall_terrace.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61d24ed0812b75f4ebdb1f3da4b902f0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8db770171ff298544a3ebf7c10e55f84
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_statue_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77830b16a3f6bab4a891dae45ac8e6ef
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Stair/Mesh/stair.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65abd40df98c6b04baaf8f63087dbe1c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c995c967c47d48446b448e07004b68bc
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a359904ad03d54442aa786a8c8959ab2
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_edge_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0804717af57a6d2409ddd0661ec9e017
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_B_down.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c89b992dcf41ed49a030b0035aefa01
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_statue_F.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 099c737fd73f1294eaebc35387c77e6a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccfd095544f536b4d93d5f38964c9121
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Clock/Mesh/clock.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5370af122ca577e4fa3cde4ddf30d7b6
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_edge_round_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91f1aa683eb7f784e96e03308dcfe87d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 258729bacaca56b45a925555c6809b1d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Clock/Mesh/clock.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddc6626ea73464f40bef056f8018fe18
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_tile_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f532e3ab0a22a7040beeefe08cd627d5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_column_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a38f74c63be106140b265efa04158907
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_A_donw.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf22cab1cbfacd240a2bab9b1ad73bc7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/treeace_body_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c5f5d110c4f78f4791bdecb76d8e37c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Mesh/mountain.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87c182466399d2f4dae114584e099ef1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_bottom.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cefec2bf4834814eb6b507860d3e61f
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef2af258af9412e4cb28694ff9c8285f
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Mountain/Mesh/mountain_road_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84ec22c6cd29d704dbd079779bf9fa4e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_window.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0278c6317db9bac49a0902f1153323b4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_statue_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6be41d42f0b26f44e834933073710791
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_B_down.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0e455c2542560646a65888b6371d7fa
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_fence_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3ab2d9a3f64328478676c8c054ce627
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/terrace_column_bace.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30e803ea9e7e84a41a49bc499f0375a5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_edge_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 063b6a260b60bdf4db61855cbe1fbedd
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Mesh/mountain_road_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10cbe026fcc99834381c451ff127a7d0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/melting_snow_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c07654e5104156647812614b87747871
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb006cb422ceeba4c8493753feeabca4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3399adb8989bf76489f72405a5d09d54
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 212a8ce634b62be40af445e22a35f353
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/melting_snow_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 162c1c34f122a394485ea5d933f9c0a4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62bee4653631279459c033180daeca75
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_tile_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e74378291843d5e439db7b5f17f7f875
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_bottom.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8223dd3e17fe8c3449c127646f8aa00c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Stair/Mesh/stair.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 379db8432d83fdf4e9b25a1360c521aa
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_tile_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd3e27836dbf86b4fb0f5ff514f85a82
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_edge_round_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d860e77483a7704e8e41e1fb1dee4bd
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dd61936f4aef494ca5b1d5610eee4f2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_fence_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b60b1802c077250468988bb417a3b430
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_window.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49d93f9bc59b5294089a0ece71971878
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d846f78302be7284f9a9be5ad9967b19
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_fence_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 048647cb76cf1a048bdd62b72e29bb11
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_statue_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62323b0069d56a444a3671b6422cfb26
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf2f39fd1fc702a4b9f5fcb7c24a60c3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_statue_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d879d49e68d09454f8ee65cd014f3f01
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_door.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55d11ef7d41cddd49aa0d71d272c2e53
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_floor.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b177b5cba9fd4074e8f43c130aa1c2c6
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_adornment_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1630199974d62ed498c61e81508915d9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_adornment_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ced3c11674de9b64d8f51f0c20fb4533
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_tile_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6851ec9c17ba7a42b64b06e1d406251
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_B_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 667f5b71ecdf4a84ea9dc6a15d518f34
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Mountain/Mesh/mountain_road_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17d7ea5dadc362342984be80640e1b1d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b96ba63458dd794891be2f925c1320a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_window.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79925f71fd3bb2645ae7329c8a1fa21a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/treeace_body_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eae628c4ff3accb42b31e5ad8d4cd705
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_adornment_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc077247244528c419c13b5a4193853a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/melting_snow_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36e12e8d0af626f4789efb6be9e53ebc
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_adornment_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23bcd7a2648dc104e96cb1e5f1966b94
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_tile_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97c693ceeb91ede48897265f846c0b2d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_body.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d23ff488309b3fd45b6f8339ad76cde3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_sit.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80d99755bb12e6149901c6854a9bcb12
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1a7aaf7a40696947ad9e0632004a19a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_statue_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30766f0b0e33ce94d91457f247a20f62
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_A_donw.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67273f367b0ae6742babe2af252e1899
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/forst_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 128b224b4211cd247a0d385db0e7905d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_statue_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1848741768dfc194cbe41bfc2b62b191
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Wall_and_fence/Mesh/wall_and_fence.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52b9c6728124bdb499b3f054e552120b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d6a95ae5204ba14082c6cbc790aafd4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/rock_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30f77708808eaf94fb3dd5b661051154
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_fence_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb490600573f6c54899b7fd7208e6376
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/melting_snow_E.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e62f0425c698554db918e615380b934
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f99d8e6270550b24ea5a4118c66444c8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/forst_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a500159dea1534f458a5e61ee8dacb38
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_statue_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce70329ff80072f428b0b3455d0d780f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_statue_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08c4fb71c5ff0ce4681ffdab0ac23929
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/terrace_column.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45008f5d7619c2e42ac25b5331c5b3a3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_fence_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60422d7fea66bc74181cd0c19c02f612
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_column_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec01bf64bda34634fbfc5dcb50160789
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/melting_snow_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dabd8b78af0bb2641a1f4037e9cb78f5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d00a975e929896b4caccd72a836665e7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/treeace_body_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08b67a33805c43246b449f408f790a16
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_edge_round_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c762bd2e6723eb14999ceca5825c6e75
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_bottom.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fedd94292d5e1b40907e8504a06ff94
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_A_up.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f4b7a8a66875f54eb158a31e423fd69
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_bottom.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0615de220fb6e744b842faa077bd199c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_A_up.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2572ea4d48662c0429764f124988a3a0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_statue.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48ff2569bf0be29488e2447fa6a1a411
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_statue_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e31bdee17ae7b4a44ba0af02ccc99478
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_floor.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6b17d2a6ef6144499d882cf6df9cdc9
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/rock_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cf4fa4ab95156e42a5e27c87863181b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e84128b27bdcaf43a1ba8d898d74975
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_window.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e8f3bd60565e804bb9cb8ee243f8e76
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_adornment_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62b26346554b98545900c23b41da4ba0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_B_adornment_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5617ff393b6c1924e94525c18c5f51b3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_adornment_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e9533e5aecdac641824184979c85a26
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_B_top.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 615bf9c1fda6ab7419b2eb76bd8b72d7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Mountain/Mesh/mountain_road_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f84eeecb25245954f841baaa442ec299
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Mesh/palace_tile_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98630083314812942b3b0c03a2b09b11
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/treeace_body_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e9cc02be10b5164580b0a87d9fc66de
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/melting_snow_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bbf0245a339116498e032d4ec44fa79
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Wall_and_fence/Mesh/wall_and_fence.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edfd1743e38273f489fe39e51be362c4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_statue.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3df2377aba64be74aa9e7f7f2fdbd3ca
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/melting_snow_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62ba91807b3be4545bfde07e73076b63
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Base/Mesh/base.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 298bcce6c05f2b64bb9d2b78d0754059
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/melting_snow_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51f44cbeae523d84eae44ab16f6340b3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/melting_snow_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0900b73c0d2133b4d994b8f9b1455901
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/palace_wall_terrace.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e246c4e39fd0bc4e998a9e601cb766f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51b63c63e5020e5448062b8decf60200
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/treeace_body_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 925ca545fefb1a74ab2a9fdc837714d4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/rock_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f5541bf6f4758948b4be122ba39eac0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/terrace_column_bace.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12773089070874b458b060781b0ac789
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/palace_roof_top_fence_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73132d7eb5765d74a8d390d3da3ff3d9
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_B_body.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 542534975d013ec4790129b1f28a7444
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_body_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0d66a614f9251346b7e7d8dcfaccc0e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_edge_round_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88c4e66a5de88e2498be96eb802a73bb
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Others/Mesh/rock_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d02107b1b52c7f340b470ff550aecf2a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9573f4212b9985648b8de6fe37fee816
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/forst_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c86f31402b4b62a4e90becfc43d19907
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_A_body.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeb07fd21308f204680240fc02748b25
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_tile_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04be7d56342644247b3f2b6f6b510853
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Mesh/roof_top_statue_D.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4fb11a354cb5164fba51c2e814d5e6e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/palace_wall_column_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f48a970a2ec3d7c41b4f0bffc69e9931
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/palace_wall_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ad92202752ffd24c950cd178890d451
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Mesh/wall_door.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 606504ef8350e1449971c3feecbff736
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Mesh/palace_edge_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5db752c5a0584d1489c3a17bdf807341
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/roof_top_body_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98f43b03d22925f4eb46f992f5e72b05
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Mesh/terracr_fence.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2a4068edf9769b4586902920dcfc83e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Mesh/treeace_body_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21c04b0d2ec14124bb7736fef466a0a7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Mesh/rock_B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ed8f4fd438f40f4181278be53374a14
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_adornment_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b2134f9af8cf764083f5e0c88289b09
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Mesh/wall_A_body.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ef1afcde842d9a4fb910bdd334a3be7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Mesh/palace_roof_top_fence_C.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93f15df65e3899543be6630b3c527a07
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_CEMENT_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24caef715a3de7e468da370d55781816
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Woods_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd8712e1a3b95bf408cf1bf15fb9a131
+    m_Address: Assets/Furniture/Source/Mesh/3Seat2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a98078f2fd9a09b47adbff5711682518
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Workbench.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0abf75740b4565418b9d7aa5cc19ca3
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Apple_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4bf5ec91ea67e94fb25bfe2b9808275
+    m_Address: Assets/Furniture/Source/Mesh/RoundTable.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b71555625692ea44e903fd664219c770
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Chuck_Pistol_Box_9.19.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92dc1f4fb14f0994d9dfb2a4ed551c9c
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Butt_Of_The_Rifle_For_Special_Submachine_Gun_Clean.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b97a682b9deea6f4a9c2c726884c89f4
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Hammer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8cc7fba1aa2e29b4cad954fe3783ea89
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Barrel_Open_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4cec953f6eb0254584387bd0e9dd253
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Handguard_For_Submachine_Gun_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec9c5369886554146884f6bfca7662cc
+    m_Address: Assets/Furniture/Source/Mesh/DoubleSeat.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c77c68a06728d143a0320dfcc126c48
+    m_Address: Assets/Furniture/Source/Mesh/MetalTable.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5f61d261ce1bad449dd30fb4ee37591
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Chainsaw.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a946898d5a375744bd71b5d04072493
+    m_Address: Assets/Furniture/Source/Mesh/3Seat.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff5607038b4f5e5448b74feeef946c57
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_HOOK_FOR_Fishing_Rod_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7d0993de6d32ba4bb5ecb7003812a2d
+    m_Address: Assets/Furniture/Source/Mesh/DoubleSeat2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 087349fd802939e4c985a1f8c3ee6426
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_GAS_CYLINDER_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63bb58ec56e49a94ca6f9dad8d73d9e2
+    m_Address: Assets/Furniture/Source/Mesh/Fotel4.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b89b6237d7d126647884ce2160c115f2
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Meat_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94c2c318f2897384892a9b3a7bcd25b2
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Scrap_Metal_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e66d5815e4e8f524898a9293b5469855
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Sledgehammer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34aa33e6e98a0ab46aacad99f49ade21
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_FLATCHE.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a65804b782e378e46a402e06983b7be4
+    m_Address: Assets/Furniture/Source/Mesh/chair.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77fd3f23017f637479f20255333ee7b0
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Special_Submachine_Gun_Clean.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff1ba4cc01c75b84bbe33098192de74c
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Muffler_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0dd0354caf5c0049b89be3049d07eb5
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Canister_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f94c2828f003a00409630826d3f03b5c
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Assembled_Tent_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c70a1c8c591d1f4caf785297bccc393
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Flask.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1cc03cbb51606e04faa898feb8fab8e3
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Army_Pistol.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6704ca6c29fd08b4898f36bf2c90058c
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_ARAMID_FABRIC.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3d2d47cdc25dcc4090c4ba35dcf72ff
+    m_Address: Assets/Furniture/Source/Mesh/Couch.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 675f9e2a8ff33444cbc498895b039dd3
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Scrap_Metal_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6468f1b90f616a449318c252b93051f
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Medical_Kit.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 413a0409464fe4e49ade5c528420b4a1
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_THREADS.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0c6bd01faa27d641885eceefda2b6b3
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Large_Magazine_For_Army_Pistol_Empty.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23812c7450364f348b94df111a8a6213
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Pallet_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9a7df9a690a1bc4e90e9786a384bfeb
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Tactical_Block.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5df2cd158efe7e046802b7942e599378
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_FIREWOOD.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5268200bc6db80845af09eb0823e211e
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Barrel_Closed_01_A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68101e52a9abd4c4ca4428f1d43fab7e
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_FIREWOOD_LAYING.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 947941c3770ac9749a60dfb2404d1ad3
+    m_Address: Assets/Furniture/Source/Mesh/SmallCloset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef8f38555e95d65438aeafc8a3b342cf
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Small_Canned_Food_D_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74eba7947f3105d4492bd23c4a539f99
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Log_laying.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 804c9c6df5d056e4da0e9b1081a86e39
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Scrap_Metal_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e60549f5f9a890408480516a8fda91d
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Meat_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 327bca4c4dcd00f45a6d843fc77fda6a
+    m_Address: Assets/Furniture/Source/Mesh/Fotel2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4600eac96d6d584aae3bb5799e75c4b
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Orange_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbf5add6f97674e4f9d710d2027584f4
+    m_Address: Assets/Furniture/Source/Mesh/MirrorComode.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0d616cdeed04b140a3fbb3063f5beea
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Meat_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5270a6afc871e2349a22b548c09c19b2
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_GAS_CYLINDER_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28a7de13a6369f846bf6d64963e8fa43
+    m_Address: Assets/Furniture/Source/Mesh/closet2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae0baeda56766ad408a1ebf8e3f8639b
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Large_Magazine_For_Army_Pistol.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 437d238391a5cc14f8d1f9d229af4592
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Pan.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c781903cc9332149b59e0c0cbc0ef70
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Woods_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bd982b9b51aeae4a9cb4b566b4da93f
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Log.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 924fa25af5f31b14abb039f25dab6ec9
+    m_Address: Assets/Furniture/Source/Mesh/Closet3.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a299e3c11d167104da0e6fa164084e76
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Fishing_Rod.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae336d95c8140b943993b5e157365001
+    m_Address: Assets/Furniture/Source/Mesh/3Seat4.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9942aaf2e61908a4fa3b6a8939ff52f9
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Chuck_Pistol_Box_9_EMPTY.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51b42342764a8ba418185d66d603b6aa
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Vertical_Handle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: faf35e45031de1744b38f392782c3d72
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Magazine_For_Army_Pistol.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8650681a82df6c94a91847d1b01ef643
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_SKIN_FLATCHES.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a20abce8e4655294886742eb9bb5c382
+    m_Address: Assets/Furniture/Source/Mesh/BigCloset.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e8c8f566be89cc48beb36361168019c
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Canned_food_B_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 392ff5165006e464c86c9dbe80cc8d3f
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Canned_food_A_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27f2230ae424a774da3151968540aac8
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Homemade_Medical_Splint.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26460841deee7094682bcaf0c141ea20
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Collimator_Sight_A_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f9f83a8c0bf9e9498756f4454978095
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Magazine_For_Army_Pistol_Empty.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b07a91327abd3554ab170725ff8ae7a6
+    m_Address: Assets/Furniture/Source/Mesh/3Seat3.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4e716dc033017f4b8f3fe9be3dd65cc
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Pallet_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e781d9745bdf3114998561b8c9601e84
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Collimator_Sight_B_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04bada0946472ac4f9a2b0e9d6da6dcc
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Camping_Knife.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47b9fc8d1ce55c440859085e45db3ccd
+    m_Address: Assets/Weapons/SmallShield/Model/SmallShield_MD.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f39cf7bb174f03f49b34f4af4d06cebe
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Cartridges_9.19.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 829b122512a90914986a375d72271b29
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Camping_Axe.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e80d84d1c2989c49ba3263d9a827506
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Handguard_For_Submachine_Gun_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1474394c9ecac843a0f4c44e895f353
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/Small_Canned_Food_C_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3135b9e66d44344da8e767529d81e84
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Magazine_For_Special_Submachine_Gun_Empty.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dc1c43c6efc435428abe80349244466
+    m_Address: Assets/Polygon-Lite Survival Collection/Models/SM_Muzzle_Brake_Compensator_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89f0d4d8bf7c4b842a84a56a9f585be1
+    m_Address: Assets/Furniture/Source/Mesh/Fotel3.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50c1a10f09bac3e4fa83b73c174ce7ad
+    m_Address: Assets/Furniture/Source/Mesh/MirrorComode2.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfbe5cdfd1128ff40b7909bf16a17d18
+    m_Address: Assets/Furniture/Source/Mesh/Fotel.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5991b8efe7e0044888b9058f6d3119f
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Tent_A_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0be92f82bc08274b8f14f7998fe6eea
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Small_Canned_Food_D_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9406672675d366049a5cf427d4fe7332
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Small_Canned_Food_C_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 405182fb1a70a9d4a8a4c06cae1e6b5f
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Workbench.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 386272c2cd2daf040ade792158663725
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Woods_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e59cb3c0308f45c4cac1274abf832b77
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Woods_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 588b383dcb97f9941a82669bc9332319
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_THREADS.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65c61591445ed8245b88a9bd45165f5b
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Fishing_Rod.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdb04e938e3a67d4ca9f646bc86fa9a2
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_FIREWOOD_LAYING.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a1b2d1882e5641459491581339d29c4
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_FIREWOOD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 129eda89f2b005c45a74bd52224c6076
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Collimator_Sight_A_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2faea41168d49f4b800fb973c865a33
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Chuck_Pistol_Box_9_EMPTY.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a82432d1109cc4c49b891160c9db1aa7
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Chuck_Pistol_Box_9_CLOSED.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 260b181a36214d94d9a2e9929947e034
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Chuck_Pistol_Box_9.19.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6230fa9fa4c316c49b43bcaedfd466df
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Chainsaw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e63c0883678c5ca4a80d34ae2165faa9
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_CEMENT_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd709f568ba51c148856dc379eadb03e
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Cartridges_9_ONE.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91ec4ba84f903af469c3374d284c72fa
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Cartridges_9.19
+      (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f2d5ce1d5cb3a741a65c988a7f1ed22
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Canister_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce2204ad7743b3445befdd8da95cda27
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Camping_Knife.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c78b2f6da8c496044acf68bbb77bee45
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Camping_Axe.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64fa9b70bbeb6964fa2a2df094b8e78d
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Barrel_Open_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b52a2a857d903434facf521b55ad8bfd
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Army_Pistol.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afcdb987b94954143bc6f5f57f3bd8a2
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Pan.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a501219ff3ba3ab42aae76e837efaea0
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Orange_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6776ea35b3d59b46907ebd401b343ff
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Medical_Kit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3834b0b997a98f4abd2393ccf97366b
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Meat_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6606374ad6058448b3ce4a22865ff19
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Meat_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ff9c98c0990fce468bb0d49a51b6461
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Flask.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c22dade7f9c21b44b6cea88848f5e8d
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Canned_food_B_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 036c576504fa16147906e501b1a57384
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Canned_food_A_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc727501756aee741997efa9a175c317
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Bandage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6db7680dca4eb2748a7339cb3bc13d14
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/Apple_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e87f2f27fa25a54409ec00ed90c9a59c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_door.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a49d0a9a81f24f4098edcca686cf7ff
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea15d4e67d22e984c8c9652ac1771405
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/stair_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 620b9d658e576a243b283ade7d3f1dcb
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efdfeb55eeba9074b915a4bef5e23da5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_column_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61c8df38e3b909f46bd0f79fbc251849
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_tile_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b704a6fb199f6214aac24d8cdc42386d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_floor_edge_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc8cde5acb4b8554fbfe89332d82da0f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 869cab0ea3b00d4428952ece7fe26f57
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_body_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db354f6104bb41445bc0ff03b95b634c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/rock_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 699757ceba351f74babbdb3c46e377f9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/palace_roof_top_window.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a78627e22fcf09841ad027dfde9b381a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_body_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49667148067910848be99094d391c6cf
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/ice_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b01d7cb8e96f06f41a26747e5f068fa9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bfa94ef28a48a74cbbeaec1c5bea788
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/mountain_road.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 283ab407ac3e2dc43a4b32ff57e905d9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5a604e545701f148abc5636e572aae1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_floor_edge_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f6634369feb9bb4886b273ef4e2a754
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_floor_edge_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29f2a196951fd7f4a9c64ea32627f15e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_fence_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d095fb83a47b0f04ab63ac83815075ad
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_body_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49fe77168e3bfa444a3b977e345c487b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab9072dd36d7e824298522c07e4ece13
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c20cef6ead0a8bb40ab17ad9a43c3809
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abfb157dc290f6542921396ab1ae8351
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92e1d6fa101f79042829327a0032a425
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c6e1a9013fa42a48bdb9a0a972c86b3
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_tile_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f21816895505f6941a1f6fa22e7c5abc
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/melting_snow_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bebee617848a17543bff11c58682b75e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ce8f23251fdfe542b0431e90c64d974
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/palace_wall_terrace.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6be2cf44fb8a6d478ac366078a58de5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/mountain_road_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a680e3af37bfce4fb72a50998bc9b32
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03e14f4ad5adfa348ae2385833700fd2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_floor_edge_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bc47408ba85a38438fcce7bcf6071d5
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_body.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 706be4aecf8a4fa4bb3b86c5f32a96c4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_A_donw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 539903ce444a84646a6f346c683783a3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 508d789868519ad468a8638fb6f0a3bc
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d401d3bf20bf0ce47af1e139fd947e12
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/stair_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d81665201dfdf94eaf2b571881e608b
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/melting_snow_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f152a02ce48c58439444fb2588ec54e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da81e63e5f56b2e45ad7c9704dd07278
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_B_down.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7aab2f65e5ddaa45a53e1f8423c03ea
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_statue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b12ffb5141cd62a419ee6b42eff9ecd0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_B_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77ccb1215e809314e9915702030ab342
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/mountain_road.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 931743d97d4d8a440b3af9a67ddefd89
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/rock_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 560de9d127e952040bdde9cd158ea546
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_body.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6acd3ef308b0f342b8722a88fbf02a8
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_fence_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21e6059a6b3636b489c3c5f12f42caf6
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/melting_snow_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c72653f3312dffb4ba6080d0b2b749f4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_body.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1e3e1bff5c2c154bbcb52595515229a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_fence_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96ab9e20710a4be4a8b0cff7cd1b4690
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_column_base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e39f06c8a8341cb4cb0fb519a475158f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82f7713a97174684e9dff25c86e8ba46
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44cf8be42c10481439a63bbc3eff25af
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/rock_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76056203e9c996d429743257176dd42e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32f8d4fbe155c664cbbdc262fa97b7d3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_fence_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206ad6e4bfb3e664fabf1dc83159128e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_adornment_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e616b474331e4f4e9121d439d0b031e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/ice_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f241400d6fc97f48b39768bcb8b8837
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a106269d3a8fda40a151656c7f853a1
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/forst_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56fda1f779544df4b9a2762499b74026
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/clock.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b12b6eb4189ffeb439229ccdeceb8b7a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/palace_roof_top_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dc158a4a5c3f7449a4c499993def9b3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bc27963a3e1ff8458a7ee41cb11cad2
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terracr_fence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31ab23d6053d70b44af45957f6d12e82
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/ice_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 467f0de121126594eb3b8305f36f91f9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb1dd0a5fd476ce488ddfca90fd69c78
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d498a2e48ffa2847b2309d781e0d39c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98ec31127a5a08843b1b4803f65c4750
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/mountain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24b8dc7c42ca66f4dba4ab17643a718b
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/melting_snow_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af5ca6cb2c8ae7847b5ab0350c9184ef
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_A_body.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 421a6563be1e0c14cb86547c6956def9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 962acc4441ad0cf469c8f45346e69911
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_statue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ddfac48950114545a31da882042ad36
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Treeace/terrace_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 376a37f775d9bdf4393ed9cd2b898056
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/wall_B_adornment_A
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e935e2ff2ea76034ab5538208c33f3fc
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_A_up.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a7e226a7e1aa5c40b3f26316fdeb704
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_fence_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 242543eef8a6ed44ab6cd479ec539d2f
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56afa9318f469f34c82cb2d8e5588d71
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b7c79d83aaaef14197eea0259d59739
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/palace_roof_top_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad9403f56eb58b84196eda6dc894d00a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0806c73be13730d418bd4a883f51a0f3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Floor/palace_tile_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fffdeb407dc647d4bb5d13227c3c2de0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b395724407680c040a1d1074bf9601ac
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/rock_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c79392c285e957b4cad765ed52528c3a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e14dc20111c0b34d9ebead68fbf5a78
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_adornment_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fece0ad1160e4794096dcc9c06dd3318
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/rock_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fbd2f8a0fb2c4f44abba388ec523492
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_B_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: faca6f13deaf4da4aa5d23193149f105
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd034002069d1784995b1f296cbc4735
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_column_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ba843f6087b2c24f85c998a9edbfbd6
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_wall_A_donw.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ec925d491690094a9dc52753047da6d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_fence_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d78c7284dc829c748b6cf98101bb2af2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_B_adornment_A
+      1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91804e1be878d0743942eff2cca8b67d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_statue_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c987e1a1e86624b489598c1825e20f3e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/palace_sit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: baf1064f47b1a3c4c854deca893c1cbe
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/ice_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0eddaf23d9069b428d6068d8545015f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Treeace/terrace_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 250e1a297a187a14c929c565219a0e99
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Roof_top/roof_top_adornment_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b46001bf8485ee2469f4ce59e146e5d4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/stair_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3f9da748b87c234685ef8f01700e1d8
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Wall/palace_wall_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63f42f0a52c83ef47b0eb4ad7307e614
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/stair_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fb41c4e81e83224aa56d8cba2a9f06c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8845e6623bec4a409905410f4d7df43
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Wall/wall_A_top.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14e2eada121b75d44b88269c101b0b4a
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_F.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2790edf4d5733f14dad124ba014590e9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/Wall_and_fence/wall_F.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90ec1be3c64c9114ea73f544de47d41d
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 671ffb3e509dbb248baf8f499a7b5f19
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Palace/Floor/palace_tile_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76b168f8dc7cbc248981164e784f60eb
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bd0bfb6d9822d0439346232aaa242e4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/palace_roof_top_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 929bec33ccdef674fbd00f63837da128
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/ice_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f31ac589091462645beddb3a824353a0
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Prefab/Environment/melting_snow_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7e1145ce18b6d24585b8cdd14c82da7
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91492e214e7c83c48b1a34918ac6e392
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/melting_snow_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b80c17316080d04ba4f63831d379bdb
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_body_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fb03ef6ebfc80b48809e4e7ecefe6db
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_E.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45e0d01d5f42bdb4da35b1da2145c3f3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/stair_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af5ca6c3eaf7b0347b9b4e22243f4547
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38a6017df1f73bb4b940fc5f45aba6fb
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_body_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ab678176ad2d4546b1f6d2ec47bbcb3
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_column.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92376239b2e6be247bd44434211e1438
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/Wall_and_fence/wall_fence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e767d19bb1e49b2439d084cc89b215ef
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Palace/Roof_top/roof_top_statue_F.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c906e7351982a64188857a3501a7d71
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Prefab/Environment/melting_snow_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0811362ae53573c47be253aac1dbdd5d
+    m_Address: Assets/Furniture/Prefabs/SmallCloset.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9e6213ffc5943b4db8396985aa3f894
+    m_Address: Assets/Furniture/Prefabs/3Seat3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd72486aa780d7c488fce4c5de88266f
+    m_Address: Assets/Furniture/Prefabs/3Seat2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7be1856a1844e5a47b82d7cb61f184e5
+    m_Address: Assets/Furniture/Prefabs/closet2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4da9f6017c5c2954282fe23c8f297ec2
+    m_Address: Assets/Furniture/Prefabs/3Seat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c24cdd6fcf1f09248832426ea5388c7f
+    m_Address: Assets/Furniture/Prefabs/Closet3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f43b2566a8dcad4aa8e75125eeda38e
+    m_Address: Assets/Furniture/Prefabs/RoundTable.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0602526b549f4e74c9107db59bde2a39
+    m_Address: Assets/Furniture/Prefabs/Fotel2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf75d98c5ad60534184b2a6377117ef9
+    m_Address: Assets/Furniture/Prefabs/MirrorComode2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d4494b8b100519479f9699c5a7390a9
+    m_Address: Assets/Furniture/Prefabs/BigCloset.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41cf0c45f4ecbd0469567b5a28e21395
+    m_Address: Assets/Furniture/Prefabs/Fotel3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5026a2aaf9d8394a9e8b886d38dbfac
+    m_Address: Assets/Furniture/Prefabs/DoubleSeat2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a94bd08074ccfd4e938cda201930e63
+    m_Address: Assets/Furniture/Prefabs/Fotel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c59b54db7aeb3d438ea1c0bf9694519
+    m_Address: Assets/Furniture/Prefabs/DoubleSeat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d5da6ebed3d1dc4db41b66b5eac1997
+    m_Address: Assets/Furniture/Prefabs/Couch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1ffc5e47031c224a92e5b203193d60b
+    m_Address: Assets/Furniture/Prefabs/MirrorComode.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a42ad6a4668ecfb44a1f036838e43f67
+    m_Address: Assets/Furniture/Prefabs/chair.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 204da6aadc13e164eac745605815a273
+    m_Address: Assets/Furniture/Prefabs/MetalTable.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 245712dbd63f6f94e8467250c1caedd9
+    m_Address: Assets/Furniture/Prefabs/3seat4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80967ac7bb2c8104b8dd5b649046d79b
+    m_Address: Assets/Furniture/Prefabs/Fotel4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d937e227d331c74d9136971897d6aeb
+    m_Address: Assets/Weapons/Prefabs/Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24a423ef19c294449b84f4728c309501
+    m_Address: Assets/Weapons/Prefabs/Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3d193f927f5b554aa865c1e645f7457
+    m_Address: Assets/Weapons/Prefabs/BossSword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eebf9633a5556074fa8426026d1c460f
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Magazine_For_Special_Submachine_Gun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 580b4dae3deb3ea4e975a4bf33fa4387
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Vertical_Handle_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c9ddf07179e6a9488ccb9ebb6c30ba7
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Muffler_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59325158d2140a4428c7bc6d792cb605
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Collimator_Sight_B_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdf94fedf7b2c124ab933abe0e1c5b00
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Handguard_For_Submachine_Gun_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c90d4b87a9347fd43ad0fb549ee1f938
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Tactical_Block.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1934d0715948b54d83e420685e0d87b
+    m_Address: Assets/Polygon-Lite Survival Collection/Prefabs/SM_Butt_Of_The_Rifle_For_Special_Submachine_Gun_Clean.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3028c5f4db726d04c9cf801f6a720670
+    m_Address: Assets/Furniture/Source/Materials/closet3_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1fba8d3d1a677745a1ef3d5c474f69c
+    m_Address: Assets/Furniture/Source/Materials/chair_chair_Albedo.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22745fe35ff3d3a4491bedbd8f6e49b5
+    m_Address: Assets/Furniture/Source/Materials/closet2_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e286cf7166a64d9449570f485ef91be8
+    m_Address: Assets/Furniture/Source/Materials/3Seat_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53aa0875d11cc604a93539387bccc820
+    m_Address: Assets/Furniture/Source/Materials/3Seat2_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 543b73a4ce5bf66408a57b3d0a721959
+    m_Address: Assets/Furniture/Source/Materials/3Seat2D_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05b92fe9187c747429c7a303f90baafc
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Black.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f56e297c4d79d854295e2047536db3f0
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Blue.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18a9a759a07b90f4587718765014632b
+    m_Address: Assets/Weapons/Sword/Model/BossSword_MAT.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79764e7ca9884494cbe558b2bdb1d30b
+    m_Address: Assets/Furniture/Source/Materials/2Seat_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccba79b675706c24b9844d369f23ade1
+    m_Address: Assets/Furniture/Source/Materials/2SeatD_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efc342f7b2a0699478373355bfc9d9fe
+    m_Address: Assets/Furniture/Source/Materials/3SeatDirt_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 073a68038f447404f9bb2d84bacdb021
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Base/Material/base.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50735be092ba0c449ae21a9c1a6195b8
+    m_Address: Assets/Furniture/Source/Materials/Kom_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56bb5f36816c84e47951a0c47b02f54b
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57946c858663c0f41a016129f25a1059
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Ground_1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e3fe719eece0ce45a47859435eb62b9
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eec3351fdd5a6444f94eccbfdc754bcf
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Green_1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f8bd68770af8084bad71e5e368e73d3
+    m_Address: Assets/Furniture/Source/Materials/fotel2_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efa9631d2150a2d47bd7d38728829ef5
+    m_Address: Assets/Furniture/Source/Materials/fotel2D_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 651f391c233f2f0468f5973d9d4cd6f7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Material/forst.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a3644830f2b55b4689a080b39b3a13f
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Material/ice.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6a97756ab140494c88bc5f4aac12a1f
+    m_Address: Assets/Furniture/Source/Materials/closet_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db493b3fe60ef33498992529fc74113a
+    m_Address: Assets/Furniture/Source/Materials/couch_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68bdc8770cf991c40b77879dd3e7a7e0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/HDRI/floor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c5cdc2944a8f9d45b3d261ff3c027f6
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Wall_and_fence/Material/fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd09ef89128890944b866d5a232b3647
+    m_Address: Assets/MountainPalace_Pack_Free/URP/HDRI/floor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fea10533f263fd4e95ec8b28b6910f7
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Wall_and_fence/Material/fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30478f606bb42724abb4b3a08f9279d5
+    m_Address: Assets/Furniture/Source/Materials/MetalTable_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00c20067fd3a2054ebeb372ab40346e4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/Palace_edge_round.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50b7cd32146f5234c825818227bf9e55
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Mountain/Material/Mountain_road.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f576af846ba759144b4e5791ee89f645
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/Palace_edge.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 087b433ed0ae148479a7c537d70c12b6
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/Palace_edge.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e3bd308801c85e429a6a1852897284e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Mountain/Material/mountain.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fdc27bcc76ebc44586890f51119e66b
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/Palace_edge_round.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e47e8f0bb92aaff4c93eedb0398a1c96
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/MainMaterialFree.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aeb2459e12c62264f93887022f038fb3
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Light 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27b9512e014e1e34d8909645efac5928
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Material/melting_snow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e73a58f6e2794ae7b1b7e50b7fb811b0
+    m_Address: Fonts & Materials/LiberationSans SDF - Drop Shadow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79459efec17a4d00a321bdcc27bbc385
+    m_Address: Fonts & Materials/LiberationSans SDF - Outline
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 331e08cdd401b9445adbabe2ad6b1da7
+    m_Address: Assets/Furniture/Source/Materials/komm2_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84f03d68c57127346aa3ebb3bb5c8009
+    m_Address: Assets/Furniture/Source/Materials/RoundTable_BaseColor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66b58e89bf028224cbb736d6be2c8539
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d442b0e6e77f9942a58057f010415a0
+    m_Address: Assets/Weapons/SmallShield/Materials/SmallShield_MAT.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80147f5c553d8a341b36e1d48cc0463c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/palace_tile_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90f2a594ed70aaa49acaaf3ce0fbbec4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Material/palace_roof_top_B_roof_and_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a06c10bf469b23542a5e53d0b9efdcb0
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Material/palace_roof_top_B_roof_and_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 518a8467d0633d340b16548304759fc9
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_window_and_statue_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61dad414dac129b49b798584428a102c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Terrace/Material/palace_terrace.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1cde08fbb09cf0449a3178fa86a7247
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_wall_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02864415b0ca99346b35afc863d08f4a
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_window_and_statue_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4eaf5c637de36d478b6a8b3a724588c
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/palace_tile_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05194c8ed14a0254b9115bb8f6b43de8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_wall_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e542f0daff843d944a782c99f965994e
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Others/Material/Rock.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 560053d93769a34479e9a2b6bee68009
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Material/palace_roof_top_A_roof_and_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96ffe520cc069744f974e3671a4b999d
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_wall_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6c6b2f271404c14998bf57482214150
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/palace_tile_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2886bc38af9130f469cbd292459a52b7
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_window_and_statue_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 399d882fee2cb7b419057e5df974e3b2
+    m_Address: Assets/MountainPalace_Pack_Free/URP/HDRI/Sky.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e97a52ce23eff7c4ca8bb954c57c1ba2
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Roof_top/Material/palace_roof_top_statue_and_window.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9c60fe245c783046bf929c7eac0dcc4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Material/palace_roof_top_statue_and_window.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3afff74167045474ca3588f07372b091
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_sit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ab09e378f6a5344c8b743b5a4ec7570
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_wall_column.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b23b0ca180df0b4a93916a88478c8d4
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_window_and_statue_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bd39572335bab44a82833b48d15a230
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/palace_tile_D.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bb49f96d9d3347498952f4301277dd8
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Roof_top/Material/palace_roof_top_A_roof_and_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb940e3b7adb19c45b0c578bc8581505
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/palace_tile_B.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c6ecf9426336c74192b348e05da70df
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/palace_tile_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc200df031a1d954caeb56fcc24b3102
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/palace_tile_C.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcea5dba132b3a5479a95723df751f03
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Floor/Material/palace_floor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc6f7b18f0c73a849a27ff8e6eaa294c
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/palace_tile_D.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed8802aaece499743b9b5b7096dfc100
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Floor/Material/palace_floor.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e2567fc2b609db4888462ec8ac604b8
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_sit.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ea312071a823a84cbb6cf4660a90b54
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Terrace/Material/palace_terrace.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee105395e30ffcb408d7ae0734247f59
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Palace/Wall/Material/palace_wall_A.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f59417376f722146bbadc2508c31970
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Palace/Wall/Material/palace_wall_column.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e99437337c48ff54e8846e5ecccafb10
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Yellow_2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b72f54e9445c2c4c9758f68df5ef9d3
+    m_Address: Assets/Polygon-Lite Survival Collection/Materials/Yello.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe092cd63d100a34ba7ed43cf2277f84
+    m_Address: Assets/Weapons/Sword/Model/Sword_MAT.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50c8d27580e7590499e63d42b131cb59
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Wall_and_fence/Material/wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96c4f2d9a06e4b94a9ad41fba4548711
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Wall_and_fence/Material/wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17130526629ced24e91f8b8be9f8020e
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Wall_and_fence/Material/wall_and_fence_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2975f0b0a2a956c46877ddac6639b300
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Wall_and_fence/Material/wall_and_fence_fence.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 291e96eb21c647b448b8cbdd7a5a5a2f
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/Environment/Wall_and_fence/Material/wall_and_fence_wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc5088a167d35ac49b9b599c88aa6cea
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Wall_and_fence/Material/wall_and_fence_wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 559e69913eabae7499c83823bcfe5eb4
+    m_Address: Assets/MountainPalace_Pack_Free/URP/HDRI/snwy_sky.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88d2753a8a6435f4eac40278b534ecd1
+    m_Address: Assets/MountainPalace_Pack_Free/URP/Environment/Stair/Material/stair.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 883ab96d1d1a79845b9744e5eb611355
+    m_Address: Assets/MountainPalace_Pack_Free/HDRP/HDRI/snwy_sky.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 99c87e75b523bd14e9f70b3966d71316, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d027989ad7cf8948af277ba1b6a08a2, type: 2}
+    - {fileID: 11400000, guid: d0be1143ad407f94d94fa33fb4d9341b, type: 2}
