@@ -7,7 +7,7 @@ using UnityEditor.AddressableAssets.Settings;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 
-public class AddressableBuildTest : MonoBehaviour
+public class CustomAddressableBuild : MonoBehaviour
 {
     public static string build_script
             = "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset";
@@ -16,6 +16,9 @@ public class AddressableBuildTest : MonoBehaviour
         = "Assets/AddressableAssetsData/AddressableAssetSettings.asset";
 
     public static string profile_name = "Default";
+
+    public static string library_location = "CustomLibrary/";
+
     private static AddressableAssetSettings settings;
 
 
@@ -91,8 +94,7 @@ public class AddressableBuildTest : MonoBehaviour
         }
 
         setBuilder(builderScript);
-        Addressables.LibraryPath = "CustomLibrary/";
-        Debug.Log(Addressables.LibraryPath + "\n" + Addressables.BuildPath);
+        Addressables.LibraryPath = library_location;
 
         return buildAddressableContent();
     }
